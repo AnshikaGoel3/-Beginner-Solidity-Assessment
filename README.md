@@ -35,8 +35,8 @@ pragma solidity ^0.8.18;
 contract MyToken {
 
     // public variables here
-    string public token_name = "ABC";
-    string public token_abbreviation = "MTA";
+    string public token_name = "CRAFTER";
+    string public token_abbreviation = "CRFTR";
     uint public total_supply = 0;
 
     // mapping variable here
